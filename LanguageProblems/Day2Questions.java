@@ -43,7 +43,15 @@ class Day2Questions {
 
 		/* 
 		Question 4: What will be the type of result in the following Java code?
+		byte b = 4; 
+		char c = 'a';
+		short s = 512;
+		int i = 1000;
+		float f = 3.14f;
+		double d = 99.9954;
+		result = (f✶ b) + (i % c) - (d * s);
 		
+		Type will be 'double' as largest type in equation is double.
 		*/
 		
 		/* 
