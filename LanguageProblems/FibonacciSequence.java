@@ -19,6 +19,6 @@ class FibonacciSequence {
 			
 			first= second; second= third;
 		}
-		
+		sc.close();	
 	}
 }
