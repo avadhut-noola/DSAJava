@@ -22,5 +22,6 @@ public class binToDec {
         System.out.println("Enter a binary no: ");
         int binN = sc.nextInt();
         System.out.println("Decimal no for binary " + binN + " = " + binToDecimal(binN));
+        sc.close();
     }
 }
